@@ -166,7 +166,7 @@
     <comment>The title text for the pairup notification adaptive card</comment>
   </data>
   <data name="MeetupContent" xml:space="preserve">
-    <value>Två gånger i veckan blir du ihopparad med en kollega till en virtuell fika. Denna veckas matchning är {0}. Boka in en fika redan nu, gärna med kameran på och bjud in fler om du vill.</value>
+    <value>Två gånger i veckan blir du ihopparad med en kollega till en virtuell fika. Boka in en fika redan nu, gärna med kameran på och bjud in fler om du vill.</value>
     <comment>Content of the Meetup for the propose meeting</comment>
   </data>
   <data name="MeetupTitle" xml:space="preserve">
